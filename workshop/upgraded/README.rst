@@ -1,0 +1,1 @@
+Legacy 프로젝트의 README.rst 복사본입니다.
